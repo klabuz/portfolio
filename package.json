@@ -1,0 +1,48 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is going to be updated once start working on dev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konradlabuz/portfolio.git"
+  },
+  "author": "Konrad Labuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konradlabuz/portfolio/issues"
+  },
+  "homepage": "https://github.com/konradlabuz/portfolio#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "del": "^5.1.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-changed": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-install": "^1.1.0",
+    "gulp-modernizr": "^3.4.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-pixrem": "^1.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-lint": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.4.1",
+    "nvm": "0.0.4",
+    "streamqueue": "^1.1.2"
+  }
+}
